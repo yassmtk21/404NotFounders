@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>404NotFounders</h1>
+      <h1>404NotFounders 2</h1>
     </>
   );
 }
