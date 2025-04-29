@@ -1,10 +1,14 @@
-import { useState } from "react";
-import "./App.css";
+import React from "react";
+import Header from "./components/header";
+import Hero from "./components/hero";
 
 function App() {
   return (
     <>
-      <h1>404NotFounders 2</h1>
+      <div>
+        <Header />
+        <Hero />
+      </div>
     </>
   );
 }
